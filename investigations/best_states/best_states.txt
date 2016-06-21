@@ -1,0 +1,14 @@
+The best states are defined as those with the highest percentage of measure / hospital interactions that are of high quality. This doesn't penalize states with lower numbers of procedures.
+
+State	#	Percentage High Quality
+> DC      260     0.3192307692307692
+> LA      2331    0.1746031746031746
+> MS      1522    0.16491458607095927
+> DE      231     0.15151515151515152
+> NY      5390    0.14805194805194805
+> OK      1974    0.13728470111448834
+> AR      1383    0.13232104121475055
+> CA      9947    0.13230119634060522
+> WV      1000    0.131
+> AL      2303    0.12505427702996091
+

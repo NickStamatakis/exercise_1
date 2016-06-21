@@ -1,0 +1,17 @@
+High variability procedures are defined as those that are often outside of two standard deviations for the avarege. High percentages of instances beyond this are indicative of wide distributions.
+
+For each procedure/hospital line, a procedure was considered variable if it was beyond two standard deviations. Procedures with the highest percentage of variable observations were considered most variable.
+
+Procedure	Name			Percent Variable
+STK_4   	Thrombolytic Therapy    0.06566820276497695
+VTE_5   	Venous Thromboembolism Warfarin Therapy Discharge Instructions  0.05492662473794549
+STK_3   	Anticoagulation Therapy for Atrial Fibrillation/Flutter 0.05167785234899329
+VTE_6   	Hospital Acquired Potentially-Preventable Venous Thromboembolism        0.051584377302873984
+OP_20   	Median Time from ED Arrival to Provider Contact for ED patients 0.04933196300102775
+VTE_3   	Venous Thromboembolism Patients with Anticoagulation Overlap Therapy    0.04834307992202729
+STK_8   	Stroke Education        0.04725085910652921
+ED_2b   	Admit Decision Time to ED Departure Time for Admitted Patients  0.04598092643051771
+ED_1b  		Median Time from ED Arrival to ED Departure for Admitted ED Patients    0.04564032697547684
+OP_1    	Median Time to Fibrinolysis     0.04477611940298507
+
+

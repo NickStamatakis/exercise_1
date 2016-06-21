@@ -1,0 +1,17 @@
+In the master table, there is a row per hospital per measure. A given row is considered a high quality obersvation if it is in the top 10% of all instances of that measure (or the bottom 10% if a low score is considered good, as defined by table mid_qual). The hospitals with more quality counts are considered superior.
+
+This is defined as the following 10 hospitals:
+
+Hospital ID	Quality Instances
+090008  	29
+050390  	26
+050126  	23
+100102  	22
+050684  	21
+450508  	21
+330059  	20
+330397  	20
+250058  	20
+050770  	20
+
+

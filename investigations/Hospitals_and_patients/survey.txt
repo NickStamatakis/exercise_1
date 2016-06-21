@@ -1,0 +1,3 @@
+Every hospital has two relevant statistics: the percentage of procedures excellent and the percentage of procedures variable. To see which was more predicitive of survey score, each provider's score was tabulated and exported for graphical representation.
+
+ 
