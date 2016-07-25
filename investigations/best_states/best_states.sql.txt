@@ -1,0 +1,2 @@
+SELECT state, count(state), sum(quality)/count(state) AS qualitypercent FROm master_final GROUP BY state sort by qualitypercent desc;
+

@@ -1,0 +1,5 @@
+SELECT a.mid, b.m, SUM(a.variable)/COUNT(a.Variable) as variable FROM master_final a
+INNER JOIN meas b ON a.mid = b.mid
+GROUP BY a.mid, b.m
+SORT BY variable desc
+LIMIT 10;

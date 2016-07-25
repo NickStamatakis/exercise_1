@@ -1,0 +1,1 @@
+SELECT pid, SUM(quality) as qual FROM master_final GROUP BY pid SORT BY qual desc LIMIT 10;
